@@ -1,1 +1,1 @@
-
+Upload your student images in the Student_Images Folder with the image name same as the student name.
